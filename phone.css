@@ -22,7 +22,7 @@
   text-align: center;
   pointer-events: none;
 }
-
+img{width: 60vw;}
 .text{
   /* gap: -22px; */
   margin-top: 0vh;
